@@ -1,5 +1,5 @@
 # Kingsukh-Guest-House
-A responsive website for Kingsukh Guest House, built during my Web Developer Internship using HTML, CSS, and JavaScript.
+A responsive website for Kingsukh Guest House, using HTML, CSS, and JavaScript.
 
 
 ## Project Scope
